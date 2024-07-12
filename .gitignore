@@ -1,0 +1,17 @@
+*.o
+*.a
+*.so
+_obj
+_test
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+.env
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
